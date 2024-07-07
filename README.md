@@ -5,9 +5,9 @@
 - 📫 How to reach me send mail on snehalshelkepucsd@gmail.com
 - 😄 Pronouns: Do not ask personal questions.
 - ⚡ Fun fact: Revision is the key to success. So revising all my academi courses. 
-    # Connect with me
+    ## Connect with me
   (https://linkedin.com/in/snehalshelkepucsd)
-  # Languages and Tools Used
+  ## Languages and Tools Used
   - C language
   - Basic Python
   - GitHub
