@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Snehal Shelke
-- :robot: I’m interested in System Developement , System Designing , Learning new technologies , Playing Ukulele , Politics and Teasing my friends. 
+- :robot: I’m interested in System Developement , System Designing , Learning new technologies , Playing Ukulele. 
 - 🌱 I’m currently learning Trending Technologies. 
 - :handshake: I’m looking to collaborate on system developement / web developement (Backend). 
 - 📫 How to reach me send mail on snehalshelkepucsd@gmail.com
 - 😄 Pronouns: Do not ask personal questions.
-- ⚡ Fun fact: Revision is the key to success. So revising all my academic courses. 
+- ⚡ Fun fact: Revision is the key to success. So revising all my academic courses . 
     ## Connect with me
   (https://linkedin.com/in/snehalshelkepucsd)
   ## Languages and Tools Used
