@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Snehal Shelke
-- :robot: I’m interested in System Developement , System Designing , Learning new technologies , Playing Ukulele. 
+- :robot: I’m interested in System Developement , System Designing , Learning new technologies .
 - 🌱 I’m currently learning Trending Technologies. 
 - :handshake: I’m looking to collaborate on system developement / web developement (Backend). 
 - 📫 How to reach me send mail on snehalshelkepucsd@gmail.com
